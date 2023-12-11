@@ -1,1 +1,5 @@
-# React-social-media
+# React-social-media![Screenshot (44)](https://github.com/vartika-22/React-social-media/assets/112158995/2b29f6d3-2fdc-4033-a238-b92884894194)
+![Screenshot (43)](https://github.com/vartika-22/React-social-media/assets/112158995/2f132b74-973d-4aea-a0b2-8ebb07012846)
+![Screenshot (42)](https://github.com/vartika-22/React-social-media/assets/112158995/0fa19bbb-8773-4ccc-b62d-2a5f8af2c7db)
+![Screenshot (41)](https://github.com/vartika-22/React-social-media/assets/112158995/7d920306-a0bd-409c-960b-02f9578c05c6)
+![Screenshot (40)](https://github.com/vartika-22/React-social-media/assets/112158995/92b5010b-3efb-4741-ad32-e6ceec296633)
